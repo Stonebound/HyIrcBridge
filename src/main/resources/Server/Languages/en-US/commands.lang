@@ -1,0 +1,6 @@
+hyircbridge.chatToIrc = {username}: {message}
+hyircbridge.gameLogin = > {username} joined the game
+hyircbridge.gameLogout = < {username} left the game
+hyircbridge.gameDeath = {username} ☠️ {reason}
+hyircbridge.logoutStop = < {username} left the game when time came to a halt
+hyircbridge.ircToGame = [{username}] {message}

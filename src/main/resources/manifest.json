@@ -1,0 +1,20 @@
+{
+    "Group": "${project_group}",
+    "Name": "${project_name}",
+    "Version": "${project_version}",
+    "Description": "${mod_description}",
+    "Authors": [
+        {
+            "Name": "phit"
+        }
+    ],
+    "Website": "${website}",
+    "ServerVersion": "*",
+    "Dependencies": {
+        "Hytale:EntityModule": "*"
+    },
+    "OptionalDependencies": {},
+    "DisabledByDefault": false,
+    "Main": "${entry_point}",
+    "IncludesAssetPack": true
+}
